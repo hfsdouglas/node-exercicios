@@ -1,2 +1,6 @@
 /Modulo1/express/node_modules
 /Modulo1/rotas/node_modules
+/Modulo1/erros/node_modules
+/Modulo1/middlewares/node_modules
+/Modulo1/static-files/node_modules
+/Modulo1/winston/node_modules

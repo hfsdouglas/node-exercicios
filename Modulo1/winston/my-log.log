@@ -1,0 +1,28 @@
+2023-07-26T01:06:27.957Z [my-app ] error: Error log
+2023-07-26T01:06:27.959Z [my-app ] error: Warn log
+2023-07-26T01:06:27.960Z [my-app ] error: Info log
+2023-07-26T01:06:27.960Z [my-app ] error: Verbose log
+2023-07-26T01:06:27.961Z [my-app ] error: Debug log
+2023-07-26T01:06:27.962Z [my-app ] error: Silly log
+2023-07-26T01:06:27.963Z [my-app ] error: info
+2023-07-26T01:06:39.437Z [my-app] error: Error log
+2023-07-26T01:06:39.440Z [my-app] error: Warn log
+2023-07-26T01:06:39.441Z [my-app] error: Info log
+2023-07-26T01:06:39.442Z [my-app] error: Verbose log
+2023-07-26T01:06:39.443Z [my-app] error: Debug log
+2023-07-26T01:06:39.443Z [my-app] error: Silly log
+2023-07-26T01:06:39.445Z [my-app] error: info
+2023-07-26T01:07:28.030Z [my-app] error: Error log
+2023-07-26T01:07:28.034Z [my-app] warn: Warn log
+2023-07-26T01:07:28.035Z [my-app] info: Info log
+2023-07-26T01:07:28.035Z [my-app] verbose: Verbose log
+2023-07-26T01:07:28.036Z [my-app] debug: Debug log
+2023-07-26T01:07:28.036Z [my-app] silly: Silly log
+2023-07-26T01:07:28.037Z [my-app] info: Olá com parametro
+2023-07-26T01:07:36.664Z [my-app] error: Error log
+2023-07-26T01:07:36.667Z [my-app] warn: Warn log
+2023-07-26T01:07:36.668Z [my-app] info: Info log
+2023-07-26T01:07:36.669Z [my-app] verbose: Verbose log
+2023-07-26T01:07:36.670Z [my-app] debug: Debug log
+2023-07-26T01:07:36.671Z [my-app] silly: Silly log
+2023-07-26T01:07:36.672Z [my-app] info: Erro com parametro
