@@ -4,3 +4,5 @@
 /Modulo1/middlewares/node_modules
 /Modulo1/static-files/node_modules
 /Modulo1/winston/node_modules
+/Modulo1/my-bank-api/node_modules
+/Modulo1/cors/node_modules

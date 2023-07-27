@@ -1,0 +1,44 @@
+2023-07-26T23:39:55.494Z [my-bank-api] info: API iniciada e arquivo criado!
+2023-07-26T23:40:08.995Z [my-bank-api] info: API iniciada!
+2023-07-26T23:41:54.783Z [my-bank-api] info: API iniciada e arquivo criado!
+2023-07-26T23:42:02.209Z [my-bank-api] info: API iniciada!
+2023-07-26T23:42:20.183Z [my-bank-api] error: GET /account - ENOENT: no such file or directory, open 'D:\Cursos\Nodejs\Exercícios\Modulo1\my-bank-api\accounts.json'
+2023-07-26T23:43:49.413Z [my-bank-api] info: API iniciada e arquivo criado!
+2023-07-26T23:44:29.601Z [my-bank-api] info: API iniciada!
+2023-07-26T23:45:15.940Z [my-bank-api] info: API iniciada!
+2023-07-26T23:45:52.636Z [my-bank-api] info: API iniciada!
+2023-07-26T23:46:08.757Z [my-bank-api] info: API iniciada!
+2023-07-26T23:47:27.809Z [my-bank-api] info: POST /account - {"id":1,"name":"Douglas Silva","balance":28000}
+2023-07-26T23:47:44.613Z [my-bank-api] info: POST /account - {"id":2,"name":"Henrique Silva","balance":2500}
+2023-07-26T23:47:55.998Z [my-bank-api] info: GET /account
+2023-07-26T23:48:06.934Z [my-bank-api] info: GET /account/:id
+2023-07-26T23:48:13.773Z [my-bank-api] info: DELETE /account/:id - 2
+2023-07-26T23:49:49.830Z [my-bank-api] info: API iniciada!
+2023-07-26T23:50:12.512Z [my-bank-api] info: API iniciada!
+2023-07-26T23:50:26.156Z [my-bank-api] info: POST /account - {"id":3,"name":"Zezinho da Silva","balance":28000}
+2023-07-26T23:50:33.446Z [my-bank-api] info: DELETE /account/:id - [object Object]
+2023-07-26T23:50:52.528Z [my-bank-api] info: API iniciada!
+2023-07-26T23:50:59.962Z [my-bank-api] info: POST /account - {"id":4,"name":"Zezinho da Silva","balance":28000}
+2023-07-26T23:51:05.602Z [my-bank-api] info: DELETE /account/:id - {"id":4,"name":"Zezinho da Silva","balance":28000}
+2023-07-26T23:56:25.635Z [my-bank-api] info: API iniciada!
+2023-07-26T23:57:05.847Z [my-bank-api] info: API iniciada!
+2023-07-26T23:58:10.096Z [my-bank-api] info: API iniciada!
+2023-07-26T23:58:17.019Z [my-bank-api] info: API iniciada!
+2023-07-27T00:01:00.670Z [my-bank-api] info: API iniciada!
+2023-07-27T00:01:41.955Z [my-bank-api] info: API iniciada!
+2023-07-27T00:03:09.920Z [my-bank-api] info: API iniciada!
+2023-07-27T00:04:04.203Z [my-bank-api] info: API iniciada!
+2023-07-27T00:05:28.746Z [my-bank-api] info: API iniciada!
+2023-07-27T00:05:58.468Z [my-bank-api] info: API iniciada!
+2023-07-27T00:07:05.875Z [my-bank-api] info: API iniciada!
+2023-07-27T00:07:25.005Z [my-bank-api] info: API iniciada!
+2023-07-27T00:19:35.136Z [my-bank-api] info: API iniciada!
+2023-07-27T00:19:41.196Z [my-bank-api] info: API iniciada!
+2023-07-27T00:20:40.794Z [my-bank-api] info: GET /account
+2023-07-27T00:21:10.382Z [my-bank-api] info: GET /account
+2023-07-27T00:25:59.976Z [my-bank-api] info: GET /account
+2023-07-27T00:29:07.280Z [my-bank-api] info: API iniciada!
+2023-07-27T00:29:51.986Z [my-bank-api] info: API iniciada!
+2023-07-27T00:30:01.492Z [my-bank-api] info: API iniciada!
+2023-07-27T00:30:19.423Z [my-bank-api] info: API iniciada!
+2023-07-27T00:30:36.766Z [my-bank-api] info: API iniciada!
